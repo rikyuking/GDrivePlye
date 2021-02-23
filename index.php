@@ -77,15 +77,15 @@ function display_login_form()
     <meta property="og:image" content="https://1.bp.blogspot.com/-M5JeDVVjRSY/X_AjJXyd6EI/AAAAAAAASPE/iwa_le1CLKEfldZmXQUpcWMM626M8UA1gCK4BGAYYCw/s1600/gdrive-x-premium-logo.png">
     <title>Google Photos - GDrive-X Free Tool</title>   
 	  
-    <link href="https://cdn.staticaly.com/gh/karankankaria/Files/master/lib/ionicons/css/ionicons.min.css" rel="stylesheet">
-    <script src="https://cdn.staticaly.com/gh/karankankaria/Files/master/lib/jquery/jquery.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/gh/karankankaria/Files@master/lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/gh/karankankaria/Files@master/lib/jquery/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/jquery.dataTables.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/dataTables.bootstrap.min.js"></script>
     <script src="secure.js"></script>
-    <link href="https://cdn.staticaly.com/gh/karankankaria/Files/master/lib/datatables.net-dt/css/jquery.dataTables.min.css" rel="stylesheet">
-    <link href="https://cdn.staticaly.com/gh/karankankaria/Files/master/lib/datatables.net-responsive-dt/css/responsive.dataTables.min.css" rel="stylesheet">	
-    <link rel="stylesheet" href="https://cdn.staticaly.com/gh/karankankaria/Files/master/css/bracket.min.css">
-    <link rel="stylesheet" href="https://cdn.staticaly.com/gh/karankankaria/Files/master/css/bracket.simple-white.min.css">
+    <link href="https://cdn.jsdelivr.net/gh/karankankaria/Files@master/lib/datatables.net-dt/css/jquery.dataTables.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/gh/karankankaria/Files@master/lib/datatables.net-responsive-dt/css/responsive.dataTables.min.css" rel="stylesheet">	
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/karankankaria/Files@master/css/bracket.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/karankankaria/Files@master/css/bracket.simple-white.min.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.1/css/bootstrap.min.css" type="text/css" />
 	<!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -162,14 +162,14 @@ function logged_in_msg($username)
     <title>Google Photos - GDrive-X Free Tool</title>   
 	  
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" integrity="sha512-+4zCK9k+qNFUR5X+cKL9EIR+ZOhtIloNl9GIKS57V1MyNsYpYcUrUeQc9vNfzsWfV28IaLL3i96P9sdNyeRssA==" crossorigin="anonymous" />
-    <link href="https://cdn.staticaly.com/gh/karankankaria/Files/master/lib/ionicons/css/ionicons.min.css" rel="stylesheet">
-    <script src="https://cdn.staticaly.com/gh/karankankaria/Files/master/lib/jquery/jquery.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/gh/karankankaria/Files@master/lib/ionicons/css/ionicons.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/gh/karankankaria/Files@master/lib/jquery/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/jquery.dataTables.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/datatables/1.10.19/js/dataTables.bootstrap.min.js"></script>
-    <link href="https://cdn.staticaly.com/gh/karankankaria/Files/master/lib/datatables.net-dt/css/jquery.dataTables.min.css" rel="stylesheet">
-    <link href="https://cdn.staticaly.com/gh/karankankaria/Files/master/lib/datatables.net-responsive-dt/css/responsive.dataTables.min.css" rel="stylesheet">	
-    <link rel="stylesheet" href="https://cdn.staticaly.com/gh/karankankaria/Files/master/css/bracket.min.css">
-    <link rel="stylesheet" href="https://cdn.staticaly.com/gh/karankankaria/Files/master/css/bracket.simple-white.min.css">	
+    <link href="https://cdn.jsdelivr.net/gh/karankankaria/Files@master/lib/datatables.net-dt/css/jquery.dataTables.min.css" rel="stylesheet">
+    <link href="https://cdn.jsdelivr.net/gh/karankankaria/Files@master/lib/datatables.net-responsive-dt/css/responsive.dataTables.min.css" rel="stylesheet">	
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/karankankaria/Files@master/css/bracket.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/karankankaria/Files@master/css/bracket.simple-white.min.css">	
 	<!--[if lt IE 9]>
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
     <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>  
@@ -343,11 +343,11 @@ function logged_in_msg($username)
       </footer>
 	  
    </div>	
-<script src="https://cdn.staticaly.com/gh/karankankaria/Files/master/lib/jquery-ui/ui/widgets/datepicker.min.js"></script>
-<script src="https://cdn.staticaly.com/gh/karankankaria/Files/master/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
-<script src="https://cdn.staticaly.com/gh/karankankaria/Files/master/lib/perfect-scrollbar/perfect-scrollbar.min.js"></script>
-<script src="https://cdn.staticaly.com/gh/karankankaria/Files/master/lib/moment/min/moment.min.js"></script>
-<script src="https://cdn.staticaly.com/gh/karankankaria/Files/master/lib/jquery/bracket.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/karankankaria/Files@master/lib/jquery-ui/ui/widgets/datepicker.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/karankankaria/Files@master/lib/bootstrap/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/karankankaria/Files@master/lib/perfect-scrollbar/perfect-scrollbar.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/karankankaria/Files@master/lib/moment/min/moment.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/karankankaria/Files@master/lib/jquery/bracket.min.js"></script>
 </body>
 </html>
 <?php
